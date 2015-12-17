@@ -27,9 +27,9 @@ function imagemagick_cmyk_image_effect_info() {
  */
 function imagemagick_cmyk_convert(&$image, $data) {
     // icc profile of original image
-    $op  = "-profile ".drupal_get_path("module","imagemagick_cmyk")."/sRGB.icc";
+    $op  = "-profile ".drupal_get_path("module","imagemagick_cmyk")."/profiles/sRGB.icc";
     // icc profile of target image
-    $op .= " -profile ".drupal_get_path("module","imagemagick_cmyk")."/ISOcoated_v2_300_eci.icc";
+    $op .= " -profile ".drupal_get_path("module","imagemagick_cmyk")."/profiles/ISOcoated_v2_300_eci.icc";
 
     $image->ops[] = $op;
     return TRUE;
