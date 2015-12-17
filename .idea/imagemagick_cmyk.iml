@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../natale_webshop_product" />
+          <root url="file://$MODULE_DIR$/../../contrib" />
+          <root url="file://$MODULE_DIR$/../natale_user" />
+          <root url="file://$MODULE_DIR$/../natalepress_image_formatter" />
+          <root url="file://$MODULE_DIR$/../natale_retail" />
+          <root url="file://$MODULE_DIR$/../natale_user_config" />
+          <root url="file://$MODULE_DIR$/../natale_backend" />
+          <root url="file://$MODULE_DIR$/../../../../../includes" />
+          <root url="file://$MODULE_DIR$/../admin_config_page" />
+          <root url="file://$MODULE_DIR$/../../admin" />
+          <root url="file://$MODULE_DIR$/../natale_snode" />
+          <root url="file://$MODULE_DIR$/../natale_osr_shipping" />
+          <root url="file://$MODULE_DIR$/../natale_product" />
+          <root url="file://$MODULE_DIR$/../natale_sync" />
+          <root url="file://$MODULE_DIR$/../../sandbox" />
+          <root url="file://$MODULE_DIR$/../natale_webshop" />
+          <root url="file://$MODULE_DIR$/../../../../../modules" />
+          <root url="file://$MODULE_DIR$/../duplicate_hidden_field" />
+          <root url="file://$MODULE_DIR$/../../patched" />
+          <root url="file://$MODULE_DIR$/../natale" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../natale_webshop_product" />
+          <root url="file://$MODULE_DIR$/../../contrib" />
+          <root url="file://$MODULE_DIR$/../natale_user" />
+          <root url="file://$MODULE_DIR$/../natalepress_image_formatter" />
+          <root url="file://$MODULE_DIR$/../natale_retail" />
+          <root url="file://$MODULE_DIR$/../natale_user_config" />
+          <root url="file://$MODULE_DIR$/../natale_backend" />
+          <root url="file://$MODULE_DIR$/../../../../../includes" />
+          <root url="file://$MODULE_DIR$/../admin_config_page" />
+          <root url="file://$MODULE_DIR$/../../admin" />
+          <root url="file://$MODULE_DIR$/../natale_snode" />
+          <root url="file://$MODULE_DIR$/../natale_osr_shipping" />
+          <root url="file://$MODULE_DIR$/../natale_product" />
+          <root url="file://$MODULE_DIR$/../natale_sync" />
+          <root url="file://$MODULE_DIR$/../../sandbox" />
+          <root url="file://$MODULE_DIR$/../natale_webshop" />
+          <root url="file://$MODULE_DIR$/../../../../../modules" />
+          <root url="file://$MODULE_DIR$/../duplicate_hidden_field" />
+          <root url="file://$MODULE_DIR$/../../patched" />
+          <root url="file://$MODULE_DIR$/../natale" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,3 @@
+name = Imagemagick Cmyk
+description = Add an image style effect that converts to CMYK
+core = 7.x
